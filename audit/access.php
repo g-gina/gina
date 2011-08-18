@@ -54,7 +54,7 @@ do {
 } while ($myrow = mysql_fetch_array($result));
 
 } else {
-	echo "No information."; 
+	echo "No information.edited by desna"; 
 }
 ?>		
 </table>
